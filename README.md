@@ -12,7 +12,8 @@
 
 </p>
 <p align="center">
-<a href="http://Wa.me/62881027203521"><img title="Creator" src="https://img.shields.io/badge/Creator-Juala-red.svg?style=for-the-badge&logo=github"></a>
+<a href="http://Wa.me/62881027203521"><img title="Creator" src="https://img.shields.io/badge/Creator-ROJA-red.svg?style=for-the-badge&logo=github"></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
