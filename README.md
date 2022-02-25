@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="https://Juala.ghithub.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Juala-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Juala"><img title="Creator" src="https://img.shields.io/badge/Creator-Juala-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
@@ -64,10 +64,10 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
+	"ownername":"ROJA OWNER",
+	"ownernumber":"62881027203521",
+	"botname":"ROJA BOT",
+	"thumbnail":"./settings/20211015_204036.jpg",
 	"session_name":"./session.json"
 }
 ```
@@ -83,9 +83,11 @@ You can edit owner and other in `'./settings/config.json'`
 - [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 - [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 6](https://chat.whatsapp.com/IUBeg6Uzam88Al5IfZLmKH)
 
 # Thanks To
 - My god & my parents
 - Penyedia module
 - Teman" yang selalu support saya
+- terimakasih buat ROJA BOT
 - Kalian semua 🛐
