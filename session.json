@@ -1,2 +1,7 @@
-// taro session lu di sini klo mau run heroku
-// hapus file ini klo mau run di termux
+{
+	"clientID": "A5+5K8Ri0EMf7NSNuPd8NQ==",
+	"serverToken": "1@3m1yprEn9teV29t4FFUSHqFUeOVEJ4uLWGSbAWIdsT+56NeaaVyo3k/4Mb1NW2a7NnFzc/oSqMwitQ==",
+	"clientToken": "Xw9eM+5dxxT2rTPBXNnj3h6nbV+Rvv4UgGWcc0yT/sk=",
+	"encKey": "Eb11SHgQkdca8m0JC27LwAptfI8PAY2cTxvLnQn0NfA=",
+	"macKey": "O4fsFyWXrpl7wBTBEA82GBVn8yLaIsWN48SQ13WR4AY="
+}
