@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="http://Wa.me/62881027203521"><img title="whatsapp" src="https://img.shields.io/badge/Creator-ROJA-red.svg?style=for-the-badge&logo=whatsapl"></a>
+<a href="http://Wa.me/62881027203521"><img yellow="whatsapp" src="https://img.shields.io/badge/Creator-ROJA-red.svg?style=for-the-badge&logo=whatsapl"></a>
 <a href="https://github.com/Juala"><img green="ghithub" src="https://img.shields.io/badge/ghithub-ROJA-blue.svg?style=for-the-badge&logo=ghithub"></a>
 </p>
 <p align="center">
