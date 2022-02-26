@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Haruka#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka#donate">Donate</a></br>
-  <a href="https://github.com/zeeone-ofc/Haruka#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka#settings">Settings</a>
+  <a href="https://github.com/Juala/Haruka#instalasi">Installation</a> •
+  <a href="https://github.com/Juala/Haruka#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Juala/Haruka#donate">Donate</a></br>
+  <a href="https://github.com/Juala/Haruka#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Juala/Haruka#settings">Settings</a>
 
 </p>
 </div>
