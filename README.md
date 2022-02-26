@@ -42,7 +42,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Haruka)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Juala/Haruka)
 
 ```bash
  > heroku/nodejs
@@ -73,10 +73,6 @@ You can edit owner and other in `'./settings/config.json'`
 }
 ```
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
 - [ROJA STORE 1](https://chat.whatsapp.com/IUBeg6Uzam88Al5IfZLmKH)
