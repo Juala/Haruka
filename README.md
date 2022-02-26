@@ -12,8 +12,8 @@
 
 </p>
 <p align="center">
-<a href="http://Wa.me/62881027203521"><img yellow="whatsapp" src="https://img.shields.io/badge/Creator-ROJA-red.svg?style=for-the-badge&logo=whatsapl"></a>
-<a href="https://github.com/Juala"><img green="ghithub" src="https://img.shields.io/badge/ghithub-ROJA-blue.svg?style=for-the-badge&logo=ghithub"></a>
+<a href="http://Wa.me/62881027203521"><img yellow="whatsapp" src="https://img.shields.io/badge/Creator-ROJA-red.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Juala"><img green="ghithub" src="https://img.shields.io/badge/ghithub-Juala-red.svg?style=for-the-badge&logo=ghithub"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
